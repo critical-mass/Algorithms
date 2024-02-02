@@ -4,7 +4,7 @@ target = 3
 def bin_search(list, target):
     #define our high points and low points
     low = 0
-    #subtrack 1 because lists start with a 0 point not a 1
+    #subtract 1 because lists start with a 0 point not a 1
     high = len(list)-1
 
     #While our low point is less than or equal to our high...
