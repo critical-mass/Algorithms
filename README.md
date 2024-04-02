@@ -5,5 +5,9 @@ Mostly based on the book Grokking Algorithms
 
 # Big O Notation
 
-bin search = O(log2n)\
-slection sort = O(n^2)
+bin search = O(log2 n)\
+slecteon sort = O(n^2)\
+simple search = O(n)\
+quicksort = O(n log2 n)\
+selection sort = O(n2)\
+Traveling Salesman = O(n!)
