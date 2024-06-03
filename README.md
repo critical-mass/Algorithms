@@ -10,4 +10,5 @@ slecteon sort = O(n^2)\
 simple search = O(n)\
 quicksort = O(n log2 n)\
 selection sort = O(n2)\
-Traveling Salesman = O(n!)
+Traveling Salesman = O(n!)\
+Breadth-first = O(V + E)
