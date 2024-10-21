@@ -29,7 +29,7 @@ def bfs_seller_search():
                 return True
             else:
                 search_queue += graph[person]
-    return False  # This line is outside the loop
+    return False 
 
 # Call the function to start the search
 bfs_seller_search()
